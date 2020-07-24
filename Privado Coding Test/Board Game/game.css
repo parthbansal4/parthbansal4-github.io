@@ -1,0 +1,10 @@
+td{
+	width: 100px;
+    height: 100px;
+    padding: 0;
+}
+
+table{
+    margin: auto;
+    background-color: pink;
+}
